@@ -58,4 +58,8 @@ When a user types in a movie name, our `recommend()` function finds the top 5 si
 
 This is a great example of how **data science and machine learning** can be used in everyday platforms like Netflix or Hotstar. It teaches not only how to build a recommendation system but also how to work with messy data, apply text-processing techniques, and design a real-world product.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/6cecd15e-bf6e-4ef2-8b89-d4bf2587f593)
+
 
